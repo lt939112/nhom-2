@@ -4,7 +4,7 @@ const shoes = [
     name: "Nike Air Force 1 '07",
     price: 2490000,
     brand: "Nike",
-    image: "../imgweb/nike_1.png",
+    image: "imgweb/nike_1.png",
     desc: "Biểu tượng thời trang đường phố.",
   },
   {
@@ -12,7 +12,7 @@ const shoes = [
     name: "Nike Air Max Pulse",
     price: 4500000,
     brand: "Nike",
-    image: "../imgweb/nike_2.png",
+    image: "imgweb/nike_2.png",
     desc: "Sự kết hợp hoàn hảo giữa êm ái.",
   },
   {
@@ -20,7 +20,7 @@ const shoes = [
     name: "Nike Pegasus 40",
     price: 3200000,
     brand: "Nike",
-    image: "../imgweb/nike_3.png",
+    image: "imgweb/nike_3.png",
     desc: "Dòng giày chạy bộ huyền thoại.",
   },
   {
@@ -28,7 +28,7 @@ const shoes = [
     name: "Nike Court Legacy",
     price: 1900000,
     brand: "Nike",
-    image: "../imgweb/nike_4.png",
+    image: "imgweb/nike_4.png",
     desc: "Phong cách tennis cổ điển.",
   },
   {
@@ -36,7 +36,7 @@ const shoes = [
     name: "Nike Dunk Low Retro",
     price: 3500000,
     brand: "Nike",
-    image: "../imgweb/nike_5.png",
+    image: "imgweb/nike_5.png",
     desc: "Cực kỳ cá tính và nổi bật.",
   },
   {
@@ -44,7 +44,7 @@ const shoes = [
     name: "Adidas Samba OG",
     price: 2800000,
     brand: "Adidas",
-    image: "../imgweb/adidas_1.png",
+    image: "imgweb/adidas_1.png",
     desc: "Mẫu giày 'quốc dân' hiện nay.",
   },
   {
@@ -52,7 +52,7 @@ const shoes = [
     name: "Adidas Gazelle Bold",
     price: 3100000,
     brand: "Adidas",
-    image: "../imgweb/adidas_2.png",
+    image: "imgweb/adidas_2.png",
     desc: "Đế cao tôn dáng.",
   },
   {
@@ -60,7 +60,7 @@ const shoes = [
     name: "Adidas Campus 00s",
     price: 2300000,
     brand: "Adidas",
-    image: "../imgweb/adidas_3.png",
+    image: "imgweb/adidas_3.png",
     desc: "Vẻ đẹp vượt thời gian.",
   },
   {
@@ -68,7 +68,7 @@ const shoes = [
     name: "Adidas Ultraboost",
     price: 5000000,
     brand: "Adidas",
-    image: "../imgweb/adidas_4.png",
+    image: "imgweb/adidas_4.png",
     desc: "Công nghệ đệm Boost êm ái.",
   },
   {
@@ -76,7 +76,7 @@ const shoes = [
     name: "Adidas Forum Low",
     price: 2500000,
     brand: "Adidas",
-    image: "../imgweb/adidas_5.png",
+    image: "imgweb/adidas_5.png",
     desc: "Phong cách bóng rổ 80s.",
   },
   {
@@ -84,7 +84,7 @@ const shoes = [
     name: "Jordan 1 Low Panda",
     price: 3800000,
     brand: "Jordan",
-    image: "../imgweb/jordan_1.png",
+    image: "imgweb/jordan_1.png",
     desc: "Phối màu trắng đen dễ mặc.",
   },
   {
@@ -92,7 +92,7 @@ const shoes = [
     name: "Jordan 1 Mid Grey",
     price: 4200000,
     brand: "Jordan",
-    image: "../imgweb/jordan_2.png",
+    image: "imgweb/jordan_2.png",
     desc: "Màu xám thanh lịch.",
   },
   {
@@ -100,7 +100,7 @@ const shoes = [
     name: "Jordan Stay Loyal 2",
     price: 3600000,
     brand: "Jordan",
-    image: "../imgweb/jordan_3.png",
+    image: "imgweb/jordan_3.png",
     desc: "Bảo vệ cổ chân tốt.",
   },
   {
@@ -108,7 +108,7 @@ const shoes = [
     name: "Jordan 1 High OG",
     price: 5500000,
     brand: "Jordan",
-    image: "../imgweb/jordan_4.png",
+    image: "imgweb/jordan_4.png",
     desc: "Đẳng cấp High-top.",
   },
   {
@@ -116,7 +116,7 @@ const shoes = [
     name: "Jordan 4 Retro",
     price: 6200000,
     brand: "Jordan",
-    image: "../imgweb/jordan_5.png",
+    image: "imgweb/jordan_5.png",
     desc: "Thiết kế hầm hố.",
   },
   {
@@ -124,7 +124,7 @@ const shoes = [
     name: "Puma Suede Classic",
     price: 2100000,
     brand: "Puma",
-    image: "../imgweb/puma_3.png",
+    image: "imgweb/puma_3.png",
     desc: "Da lộn mềm mại.",
   },
   {
@@ -132,7 +132,7 @@ const shoes = [
     name: "Puma RS-X Efekt",
     price: 3200000,
     brand: "Puma",
-    image: "../imgweb/puma_1.png",
+    image: "imgweb/puma_1.png",
     desc: "Chunky hiện đại.",
   },
   {
@@ -140,7 +140,7 @@ const shoes = [
     name: "Puma Cali Dream",
     price: 2600000,
     brand: "Puma",
-    image: "../imgweb/puma_2.png",
+    image: "imgweb/puma_2.png",
     desc: "Trẻ trung năng động.",
   },
   {
@@ -148,7 +148,7 @@ const shoes = [
     name: "Puma MB.01 Lamelo",
     price: 3900000,
     brand: "Puma",
-    image: "../imgweb/puma_4.png",
+    image: "imgweb/puma_4.png",
     desc: "Giày bóng rổ hiệu năng.",
   },
   {
@@ -156,7 +156,7 @@ const shoes = [
     name: "Puma Mayze Wedge",
     price: 2900000,
     brand: "Puma",
-    image: "../imgweb/puma_5.png",
+    image: "imgweb/puma_5.png",
     desc: "Đế xuồng cá tính.",
   },
 ];
@@ -311,3 +311,4 @@ window.logoutAllPages = function() {
 
 // Gọi hàm này ngay khi file script.js được tải
 document.addEventListener("DOMContentLoaded", updateAuthUI);
+
